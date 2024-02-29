@@ -1,0 +1,6 @@
+Quando un dispositivo invia un pacchetto ad un altro dispositivo che si trova su una rete diversa, il pacchetto attraversa una serie di passaggi per raggiungere la destinazione corretta. I principali sono:
+Indirizzamento: Il pacchetto viene indirizzato utilizzando l’indirizzo IP del destinatario, che indica la rete di destinazione.
+Inoltro: Il pacchetto viene inviato al gateway (router) che, a sua volta, inoltra il pacchetto fuori dalla rete locale.
+Routing: Il router utilizza tabelle di routing per scegliere il percorso migliore attraverso la rete per inviare il pacchetto alla rete di destinazione.
+Switching: Durante il suo viaggio, il pacchetto può passare attraverso vari switch e router che dirigono il traffico verso la destinazione finale.
+Consegna: Una volta che il pacchetto raggiunge la rete di destinazione, viene consegnato al dispositivo finale basandosi sull’indirizzo MAC, che è unico per ogni dispositivo di rete.
